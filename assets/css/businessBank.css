@@ -1,0 +1,154 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+.navbar-container {
+	margin: 0;
+	padding: 0;
+}
+
+#background-text {
+	margin-top: 50px;
+}
+
+.p-icon {
+	margin-top: 30px;
+	font-size: 100px;
+}
+
+.form-background {
+	background-color: #343a40;
+	border-radius: 5%;
+	-webkit-box-shadow: 0px 0px 29px 6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 29px 6px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 29px 6px rgba(0,0,0,0.75);
+}
+
+#h1-form-layout {
+	margin-top: 50px;
+	padding: 15px;
+}
+
+#form-layout {
+	padding-bottom: 50px;
+}
+
+.a-link {
+	text-decoration: underline;
+	color: white;
+	font-size: 14px;
+}
+
+.a-link:hover {
+	color: white;
+}
+
+.btn-secondary {
+	padding: 20px;
+	margin: 50px 3px;
+}
+
+.p-card {
+	font-size: 70px;
+	font-weight: bold;
+	color: navy;	
+}
+
+.a-icon-money {
+	color: white;
+}
+
+.a-icon-money:hover {
+	color: navy;
+	text-decoration: none;
+}
+
+.h3-card {
+	color: navy;
+	margin-bottom: 40px;
+}
+
+.h3-people{
+	color: navy;
+	margin-bottom: 0;
+}
+
+.a-icon {
+	color: black;
+}
+
+.a-icon:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.bgImage {
+	max-width: 100%;
+    height: 800px;    
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 0;
+}
+
+.card-image {
+	-webkit-box-shadow: -1px 2px 24px 6px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 2px 24px 6px rgba(0,0,0,0.75);
+	box-shadow: -1px 2px 24px 6px rgba(0,0,0,0.75);
+}
+
+#container-people {
+	margin: 50px 0;
+	padding: 50px 50px;
+	background-color: #e0e0d1;
+}
+
+.h1-format {
+	color: navy;
+}
+
+.app-format {
+	margin-top: 0;
+}
+
+.btn-format {
+	padding: 15px 50px;
+}
+
+.card-col-format {
+	padding: 50px 0;
+	color: navy;
+}
+
+.hr-format {
+	color: navy;
+}
+
+.col-4-format {
+	padding: 0 50px;
+}
+
+.a-format {
+	color: navy;
+	padding-right: 10px;
+	border-right: 1.5px solid navy;
+}
+
+.a-format:hover {
+	text-decoration: none;
+}
+
+.img-format {
+	padding: 50px 0;
+	border-radius: 50%;
+}
+
+.container-format {
+	width: 70%;
+	height: auto;
+}
+
+.icon-format {
+	font-size: 50px;
+}
